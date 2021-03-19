@@ -1,0 +1,14 @@
+﻿First author,Age (y),AS Diagnosis,LC Diagnosis,Sample size,LC OR (95% CI),Race,Gender,Variants,Year
+Alderson,> 25,SR,RD,1892,0.80,Mixed,Mixed,Age,1974
+Boffetta ,> 20,RD,RD,92986,1.58,Caucasian,Mixed,Age,2002
+Brown,> 50,SR,SR,8896,2.10,Mixed,Mixed,"Age, Smoking",2006
+Colak,> 56,SR,RD,94097,4.00,Mixed,Mixed,"Age, Smoking",2015
+Eriksson,> 16,PD,RD,6593,0.58,Caucasian,Mixed,"Age, Smoking, Lung Diseases",1995
+Fan,> 40,PD,RD,9295,1.27,Asian,Mixed,"Age, Smoking",2016
+Gonzalez-Perez,> 20,SR,MQ,18792,1.35,Mixed,Mixed,"Age, Smoking",2006
+Huang ,> 20,RD,RD,15219024,1.31,Asian,Mixed,"Smoking, Lung Diseases",2015
+Huovinen,> 18,SR,RD,14654,2.36,Caucasian,Male,"Age, Smoking, Lung Diseases",1997
+Littman,> 44,SR,RD,17698,1.02,Mixed,Mixed,"Smoking, Lung Diseases",2004
+Pirie,> 56,MQ,RD,634039,1.32,Mixed,Female,Age,2016
+Turner,> 30,SR,RD,26097,1.11,Mixed,Mixed,"Age, Smoking, Lung Diseases",2005
+Vandentorren,> 25,MQ,RD,14286,1.38,Mixed,Mixed,"Age, Smoking",2003
